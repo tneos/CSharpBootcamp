@@ -1,0 +1,14 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/bin/Debug/net9.0/ClassesApp
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/bin/Debug/net9.0/ClassesApp.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/bin/Debug/net9.0/ClassesApp.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/bin/Debug/net9.0/ClassesApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/bin/Debug/net9.0/ClassesApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/obj/Debug/net9.0/ClassesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/obj/Debug/net9.0/ClassesApp.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/obj/Debug/net9.0/ClassesApp.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/obj/Debug/net9.0/ClassesApp.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/obj/Debug/net9.0/ClassesApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/obj/Debug/net9.0/refint/ClassesApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/obj/Debug/net9.0/ClassesApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/obj/Debug/net9.0/ClassesApp.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/ClassesApp/obj/Debug/net9.0/ref/ClassesApp.dll

@@ -1,0 +1,14 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/bin/Debug/net9.0/WeatherStationSimulator
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/bin/Debug/net9.0/WeatherStationSimulator.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/bin/Debug/net9.0/WeatherStationSimulator.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/bin/Debug/net9.0/WeatherStationSimulator.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/bin/Debug/net9.0/WeatherStationSimulator.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/obj/Debug/net9.0/refint/WeatherStationSimulator.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/obj/Debug/net9.0/ref/WeatherStationSimulator.dll

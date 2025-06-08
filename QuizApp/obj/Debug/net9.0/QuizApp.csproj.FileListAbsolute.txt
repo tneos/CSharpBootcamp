@@ -1,0 +1,14 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/bin/Debug/net9.0/QuizApp
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/bin/Debug/net9.0/QuizApp.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/bin/Debug/net9.0/QuizApp.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/bin/Debug/net9.0/QuizApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/bin/Debug/net9.0/QuizApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/obj/Debug/net9.0/QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/obj/Debug/net9.0/QuizApp.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/obj/Debug/net9.0/QuizApp.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/obj/Debug/net9.0/QuizApp.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/obj/Debug/net9.0/QuizApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/obj/Debug/net9.0/refint/QuizApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/obj/Debug/net9.0/QuizApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/obj/Debug/net9.0/QuizApp.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/obj/Debug/net9.0/ref/QuizApp.dll

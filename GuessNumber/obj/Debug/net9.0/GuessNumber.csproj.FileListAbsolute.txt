@@ -1,0 +1,14 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/bin/Debug/net9.0/GuessNumber
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/bin/Debug/net9.0/GuessNumber.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/bin/Debug/net9.0/GuessNumber.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/bin/Debug/net9.0/GuessNumber.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/bin/Debug/net9.0/GuessNumber.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/obj/Debug/net9.0/GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/obj/Debug/net9.0/GuessNumber.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/obj/Debug/net9.0/GuessNumber.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/obj/Debug/net9.0/GuessNumber.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/obj/Debug/net9.0/GuessNumber.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/obj/Debug/net9.0/refint/GuessNumber.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/obj/Debug/net9.0/GuessNumber.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/obj/Debug/net9.0/GuessNumber.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/GuessNumber/obj/Debug/net9.0/ref/GuessNumber.dll

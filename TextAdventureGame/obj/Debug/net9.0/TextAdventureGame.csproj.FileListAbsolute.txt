@@ -1,0 +1,14 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/bin/Debug/net9.0/TextAdventureGame
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/bin/Debug/net9.0/TextAdventureGame.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/bin/Debug/net9.0/TextAdventureGame.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/bin/Debug/net9.0/TextAdventureGame.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/bin/Debug/net9.0/TextAdventureGame.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/obj/Debug/net9.0/TextAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/obj/Debug/net9.0/TextAdventureGame.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/obj/Debug/net9.0/TextAdventureGame.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/obj/Debug/net9.0/TextAdventureGame.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/obj/Debug/net9.0/TextAdventureGame.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/obj/Debug/net9.0/refint/TextAdventureGame.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/obj/Debug/net9.0/TextAdventureGame.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/obj/Debug/net9.0/TextAdventureGame.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/obj/Debug/net9.0/ref/TextAdventureGame.dll

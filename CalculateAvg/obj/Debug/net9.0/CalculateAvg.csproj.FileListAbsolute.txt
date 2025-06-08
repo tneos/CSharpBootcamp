@@ -1,0 +1,14 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/bin/Debug/net9.0/CalculateAvg
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/bin/Debug/net9.0/CalculateAvg.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/bin/Debug/net9.0/CalculateAvg.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/bin/Debug/net9.0/CalculateAvg.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/bin/Debug/net9.0/CalculateAvg.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/obj/Debug/net9.0/CalculateAvg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/obj/Debug/net9.0/CalculateAvg.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/obj/Debug/net9.0/CalculateAvg.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/obj/Debug/net9.0/CalculateAvg.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/obj/Debug/net9.0/CalculateAvg.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/obj/Debug/net9.0/refint/CalculateAvg.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/obj/Debug/net9.0/CalculateAvg.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/obj/Debug/net9.0/CalculateAvg.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/obj/Debug/net9.0/ref/CalculateAvg.dll

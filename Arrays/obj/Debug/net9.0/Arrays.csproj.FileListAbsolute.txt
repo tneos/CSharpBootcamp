@@ -1,0 +1,14 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/bin/Debug/net9.0/Arrays
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/bin/Debug/net9.0/Arrays.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/bin/Debug/net9.0/Arrays.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/obj/Debug/net9.0/Arrays.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/obj/Debug/net9.0/Arrays.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/obj/Debug/net9.0/ref/Arrays.dll

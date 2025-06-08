@@ -1,0 +1,14 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/bin/Debug/net9.0/LogicApp
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/bin/Debug/net9.0/LogicApp.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/bin/Debug/net9.0/LogicApp.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/bin/Debug/net9.0/LogicApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/bin/Debug/net9.0/LogicApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/obj/Debug/net9.0/LogicApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/obj/Debug/net9.0/LogicApp.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/obj/Debug/net9.0/LogicApp.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/obj/Debug/net9.0/LogicApp.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/obj/Debug/net9.0/LogicApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/obj/Debug/net9.0/refint/LogicApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/obj/Debug/net9.0/LogicApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/obj/Debug/net9.0/LogicApp.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/obj/Debug/net9.0/ref/LogicApp.dll

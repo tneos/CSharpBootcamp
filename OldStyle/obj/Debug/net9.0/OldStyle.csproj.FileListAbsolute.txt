@@ -1,0 +1,14 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/bin/Debug/net9.0/OldStyle
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/bin/Debug/net9.0/OldStyle.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/bin/Debug/net9.0/OldStyle.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/bin/Debug/net9.0/OldStyle.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/bin/Debug/net9.0/OldStyle.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/obj/Debug/net9.0/OldStyle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/obj/Debug/net9.0/OldStyle.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/obj/Debug/net9.0/OldStyle.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/obj/Debug/net9.0/OldStyle.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/obj/Debug/net9.0/OldStyle.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/obj/Debug/net9.0/refint/OldStyle.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/obj/Debug/net9.0/OldStyle.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/obj/Debug/net9.0/OldStyle.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/obj/Debug/net9.0/ref/OldStyle.dll

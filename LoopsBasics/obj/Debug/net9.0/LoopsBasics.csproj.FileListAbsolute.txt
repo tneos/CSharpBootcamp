@@ -1,0 +1,14 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/bin/Debug/net9.0/LoopsBasics
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/bin/Debug/net9.0/LoopsBasics.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/bin/Debug/net9.0/LoopsBasics.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/bin/Debug/net9.0/LoopsBasics.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/bin/Debug/net9.0/LoopsBasics.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/obj/Debug/net9.0/LoopsBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/obj/Debug/net9.0/LoopsBasics.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/obj/Debug/net9.0/LoopsBasics.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/obj/Debug/net9.0/LoopsBasics.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/obj/Debug/net9.0/LoopsBasics.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/obj/Debug/net9.0/refint/LoopsBasics.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/obj/Debug/net9.0/LoopsBasics.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/obj/Debug/net9.0/LoopsBasics.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/obj/Debug/net9.0/ref/LoopsBasics.dll
