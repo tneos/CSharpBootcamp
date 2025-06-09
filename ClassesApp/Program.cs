@@ -5,13 +5,15 @@ class Program
     static void Main(string[] args)
     {
         // Instances of Car class
-        Car audi = new Car("A3", "Audi");
-        Car bmw = new Car("i7", "BMW");
+        Car audi = new Car("A3", "Audi", true);
+        Car bmw = new Car("i7", "BMW", false);
 
         Console.WriteLine("Please enter the Brand name");
         // Set Brand
         audi.Brand = Console.ReadLine() ?? "";
+        bmw.Brand = Console.ReadLine() ?? "";
         // Get Brand
         Console.WriteLine("Brand is: " + audi.Brand);
+        Console.WriteLine("Brand is: " + bmw.Brand);
     }
 }
