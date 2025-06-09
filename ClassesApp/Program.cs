@@ -4,16 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Instances of Car class
-        Car audi = new Car("A3", "Audi", true);
-        Car bmw = new Car("i7", "BMW", false);
-
-        Console.WriteLine("Please enter the Brand name");
-        // Set Brand
-        audi.Brand = Console.ReadLine() ?? "";
-        bmw.Brand = Console.ReadLine() ?? "";
-        // Get Brand
-        Console.WriteLine("Brand is: " + audi.Brand);
-        Console.WriteLine("Brand is: " + bmw.Brand);
+        // Customer tom = new Customer("Tom");
+        // Customer susan = new Customer("Susan Smith", "12 Raith Dr", "08773342342");
+        //Console.WriteLine("Name of customer is: " + tom.Name);
+        // Default customer with no arguments given
+        Customer defaultCustomer = new Customer();
+        Console.WriteLine("Please enter the customer's name:");
+        defaultCustomer.Name = Console.ReadLine();
+        Console.WriteLine("Details about customer: " + defaultCustomer.Name);
+        Console.ReadKey();
     }
 }
