@@ -5,6 +5,7 @@ namespace ClassesApp;
 
 internal class Customer
 {
+    // properties (default getter and setterss)
     public string Name { get; set; }
     public string Address { get; set; }
     public string ContactNumber { get; set; }
@@ -25,9 +26,18 @@ internal class Customer
         Address = address;
         ContactNumber = contactNumber;
     }
-    
-     public Customer(string name) {
+
+    public Customer(string name)
+    {
         Name = name;
+    }
+
+   // Method
+    public void SetDetails(string name, string address, string contactNumber)
+    {
+        Name = name;
+        Address = address;
+        ContactNumber = contactNumber;
     }
 
 
