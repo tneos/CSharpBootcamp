@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/bin/Debug/net9.0/OperationOverloading
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/bin/Debug/net9.0/OperationOverloading.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/bin/Debug/net9.0/OperationOverloading.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/bin/Debug/net9.0/OperationOverloading.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/bin/Debug/net9.0/OperationOverloading.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/obj/Debug/net9.0/OperationOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/obj/Debug/net9.0/OperationOverloading.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/obj/Debug/net9.0/OperationOverloading.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/obj/Debug/net9.0/OperationOverloading.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/obj/Debug/net9.0/OperationOverloading.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/obj/Debug/net9.0/OperationOverloading.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/obj/Debug/net9.0/refint/OperationOverloading.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/obj/Debug/net9.0/OperationOverloading.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/obj/Debug/net9.0/OperationOverloading.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/OperationOverloading/obj/Debug/net9.0/ref/OperationOverloading.dll

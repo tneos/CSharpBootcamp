@@ -14,7 +14,7 @@ class Program
         Console.WriteLine("Details about customer: " + defaultCustomer.Name);
         Customer customer1 = new Customer();
         // Use method
-        customer1.SetDetails("Julia Walters", "12 Raith Str", "121244985");
+        customer1.SetDetails("Julia Walters", "12 Raith Str");
         Console.WriteLine("Here is new customer's details: " + customer1.Name + customer1.Address + customer1.ContactNumber);
         Console.ReadKey();
     }

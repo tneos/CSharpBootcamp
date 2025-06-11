@@ -19,21 +19,18 @@ internal class Customer
     }
 
 
-    // Custom Constructors
-    public Customer(string name, string address, string contactNumber)
+    // Constructor (some parameters with default values)
+    public Customer(string name, string address = "NA", string contactNumber = "NA")
     {
         Name = name;
         Address = address;
         ContactNumber = contactNumber;
     }
 
-    public Customer(string name)
-    {
-        Name = name;
-    }
+    
 
-   // Method
-    public void SetDetails(string name, string address, string contactNumber)
+   // Method (default parameter contactNumber)
+    public void SetDetails(string name, string address, string contactNumber = "NA")
     {
         Name = name;
         Address = address;
