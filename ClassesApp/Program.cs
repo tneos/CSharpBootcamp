@@ -13,9 +13,14 @@ class Program
         defaultCustomer.Name = Console.ReadLine();
         Console.WriteLine("Details about customer: " + defaultCustomer.Name);
         Customer customer1 = new Customer();
+        Customer customer2 = new Customer("Thomas Neos");
+        Customer customer3 = new Customer();
         // Use method
         customer1.SetDetails("Julia Walters", "12 Raith Str");
-        Console.WriteLine("Here is new customer's details: " + customer1.Name + customer1.Address + customer1.ContactNumber);
+        //Console.WriteLine("Here is new customer's details: " + customer1.Name + customer1.Address + customer1.ContactNumber);
+        customer1.GetId();
+        customer2.GetId();
+        customer3.GetId();
         Console.ReadKey();
     }
 }
