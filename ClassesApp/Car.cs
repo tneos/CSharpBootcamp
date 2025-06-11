@@ -8,6 +8,9 @@ internal class Car
     // private field hides variable from other classes
     // Backing fields
     //private string _model = "";
+
+    // Static field -- Accessed on Car class only
+    public static int NumberOfCars = 0;
     private string _brand = "";
     private bool _isLuxury;
 
@@ -44,6 +47,7 @@ internal class Car
     // Constructor
     public Car(string model, string brand, bool isLuxury)
     {
+        NumberOfCars++;
         Model = model;
         Brand = brand;
         IsLuxury = isLuxury;
