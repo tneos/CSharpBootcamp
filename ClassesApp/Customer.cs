@@ -1,5 +1,4 @@
-using System;
-using System.ComponentModel.DataAnnotations;
+
 
 namespace ClassesApp;
 
@@ -10,9 +9,23 @@ internal class Customer
     // Identifier for every object 
     private readonly int _id;
     // Read Only property(without setter), exposes private property
-    public int Id{get
-        {return _id; }
-     }
+
+    // Write only property
+    private string _password;
+
+    public string Password
+    {
+        set
+        {
+            _password = value;
+
+        }
+    }
+    public int Id
+    {
+        get
+        { return _id; }
+    }
     public string Name { get; set; }
     public string Address { get; set; }
     public string ContactNumber { get; set; }
