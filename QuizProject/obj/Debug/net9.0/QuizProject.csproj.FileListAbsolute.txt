@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/bin/Debug/net9.0/QuizProject
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/bin/Debug/net9.0/QuizProject.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/bin/Debug/net9.0/QuizProject.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/bin/Debug/net9.0/QuizProject.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/bin/Debug/net9.0/QuizProject.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/obj/Debug/net9.0/QuizProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/obj/Debug/net9.0/QuizProject.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/obj/Debug/net9.0/QuizProject.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/obj/Debug/net9.0/QuizProject.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/obj/Debug/net9.0/QuizProject.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/obj/Debug/net9.0/QuizProject.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/obj/Debug/net9.0/refint/QuizProject.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/obj/Debug/net9.0/QuizProject.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/obj/Debug/net9.0/QuizProject.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizProject/obj/Debug/net9.0/ref/QuizProject.dll
