@@ -31,13 +31,45 @@ namespace QuizProject
                 if (question.IsCorrectAnswer(userChoice))
                 {
                     Console.WriteLine("Correct!");
-
+                    _score++;
                 }
                 else
                 {
                     Console.WriteLine($"Incorrect. The correct answer is {question.Answers[question.CorrectAnswerIndex]}");
                 }
             }
+            DisplayResults();
+        }
+
+        private void DisplayResults()
+        {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("╔═════════════════════════════════════════════════════════════════════════╗");
+            Console.WriteLine("║                                 Results                                 ║");
+            Console.WriteLine("╚═════════════════════════════════════════════════════════════════════════╝");
+            Console.ResetColor();
+
+            Console.WriteLine($"Quiz finished. Your score is: {_score} out of {_questions.Length}");
+            // Get percentage of correct answers
+            double percentage = (double)_score / _questions.Length;
+
+            // Display messages to user based on percentage
+            if (percentage >= 0.8)
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Excellent work!");
+            }
+            else if (percentage >= 0.5)
+            {
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine("Good effort");
+            }
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Keep practicing");
+            }
+            Console.ResetColor();
         }
 
         // Display question method
@@ -60,15 +92,7 @@ namespace QuizProject
                 Console.WriteLine($". {question.Answers[i]}");
             }
 
-            // Compare user's choice with correct index
-            // if (GetUserChoice() == question.CorrectAnswerIndex)
-            // {
-            //     Console.WriteLine("Correct!");
-            // }
-            // else
-            // {
-            //     Console.WriteLine("Incorrect");
-            // }
+           
         }
 
         // Method that takes user's input and returns choice as number
