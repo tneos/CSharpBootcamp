@@ -8,16 +8,40 @@ namespace QuizProject
     internal class Quiz
     {
         // Array of Question type
-        private Question[] questions;
+        private Question[] _questions;
+        private int _score;
 
         // Constructor
         public Quiz(Question[] questions)
         {
-            this.questions = questions;
+            this._questions = questions;
+            _score = 0;
+        }
+
+        public void StartQuiz()
+        {
+            Console.WriteLine("Welcome to the Quiz!");
+            int questionNumber = 1;
+
+            foreach (Question question in _questions)
+            {
+                Console.WriteLine($"Question {questionNumber++}");
+                DisplayQuestion(question);
+                int userChoice = GetUserChoice();
+                if (question.IsCorrectAnswer(userChoice))
+                {
+                    Console.WriteLine("Correct!");
+
+                }
+                else
+                {
+                    Console.WriteLine($"Incorrect. The correct answer is {question.Answers[question.CorrectAnswerIndex]}");
+                }
+            }
         }
 
         // Display question method
-        public void DisplayQuestion(Question question)
+        private void DisplayQuestion(Question question)
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("╔═════════════════════════════════════════════════════════════════════════╗");
@@ -35,6 +59,32 @@ namespace QuizProject
                 Console.ResetColor(); // resets the foreground(text) color
                 Console.WriteLine($". {question.Answers[i]}");
             }
+
+            // Compare user's choice with correct index
+            // if (GetUserChoice() == question.CorrectAnswerIndex)
+            // {
+            //     Console.WriteLine("Correct!");
+            // }
+            // else
+            // {
+            //     Console.WriteLine("Incorrect");
+            // }
+        }
+
+        // Method that takes user's input and returns choice as number
+        private int GetUserChoice()
+        {
+            Console.Write("Your answer(number): ");
+            string input = Console.ReadLine() ?? "";
+            int choice = 0;
+            while (!int.TryParse(input, out choice) || choice < 1 || choice > 4)
+            {
+                Console.WriteLine("Invalid choice. Please enter a number between 1 and 4: ");
+                input = Console.ReadLine() ?? "";
+            }
+
+            return choice - 1; // adjust to 0-indexed array
+
         }
     }
 }
