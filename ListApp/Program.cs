@@ -5,14 +5,27 @@
         static void Main(string[] args)
         {
             // Declare a list and initialize
-            List<string> colors = new List<string>();
-            // Add items
-            colors.Add("red");
-            colors.Add("blue");
-            colors.Add("yellow");
-            colors.Add("red");
-            colors.Add("red");
-            colors.Add("red");
+            List<string> colors =
+            [
+                // Add items
+                "red",
+                "blue",
+                "yellow",
+                "red",
+                "red",
+                "red",
+            ];
+
+            // List of numbers
+            List<int> numbers = new List<int> { 1, 3, 6, 23, 8, 5, 12 };
+
+            // Sort numbers
+            numbers.Sort();
+
+            foreach (int number in numbers)
+            {
+                Console.WriteLine(number);
+            }
 
 
             // Remove item
