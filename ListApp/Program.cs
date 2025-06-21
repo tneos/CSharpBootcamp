@@ -22,7 +22,21 @@
             // Sort numbers
             numbers.Sort();
 
-            foreach (int number in numbers)
+            // Define the predicate to check the expression
+            Predicate<int> isGreaterThanTwelve = num => num >= 12;
+
+            // Find numbers that match expression(returns a list)
+            List<int> higherOrEqualTwelve = numbers.FindAll(isGreaterThanTwelve);
+
+            // Lamda expression passed as predicate to Any()
+            bool equalToTwentyThree = higherOrEqualTwelve.Any(num => num == 23);
+
+            if (equalToTwentyThree)
+            {
+                Console.WriteLine("There is a value equal to 23");
+            }
+
+            foreach (int number in higherOrEqualTwelve)
             {
                 Console.WriteLine(number);
             }
