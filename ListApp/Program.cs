@@ -4,6 +4,13 @@
     {
         static void Main(string[] args)
         {
+            List<Product> products = new List<Product>
+            {
+                new Product{Name = "razor", Price = 2.45},
+                new Product{Name = "t-shirt", Price = 22.45},
+                new Product{Name = "hat", Price = 12}
+            };
+
             // Declare a list and initialize
             List<string> colors =
             [
@@ -51,10 +58,18 @@
                 isDeletingSuccessful = colors.Remove("red");
             }
 
-             Console.WriteLine("Current colours in the list");
+            Console.WriteLine("Current colours in the list");
             foreach (string color in colors)
             {
                 Console.WriteLine(color);
+            }
+
+            // Display products based on Product class
+            Console.WriteLine("Available products:");
+
+            foreach (Product product in products)
+            {
+                Console.WriteLine($"Product name: {product.Name} for {product.Price:0.00}");
             }
         }
     }
