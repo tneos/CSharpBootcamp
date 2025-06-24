@@ -64,13 +64,18 @@
                 Console.WriteLine(color);
             }
 
-            // Display products based on Product class
-            Console.WriteLine("Available products:");
+            // Filter list with where(), create new list
+            List<Product> cheapProducts = products.Where(p => p.Price < 20).ToList();
 
-            foreach (Product product in products)
+            // Display products based on Product class
+            Console.WriteLine("Available cheap products:");
+
+            foreach (Product product in cheapProducts)
             {
                 Console.WriteLine($"Product name: {product.Name} for {product.Price:0.00}");
             }
+
+            
         }
     }
 }
