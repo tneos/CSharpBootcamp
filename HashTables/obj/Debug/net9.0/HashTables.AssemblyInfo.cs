@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HashTables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+289adbd34516392f97008106dd562ccab42b5466")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1db5f90ce37084e9e6abfed503770d1dbbd9479a")]
 [assembly: System.Reflection.AssemblyProductAttribute("HashTables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HashTables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

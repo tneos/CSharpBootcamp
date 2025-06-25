@@ -10,6 +10,7 @@ namespace HashTables
             // Create hash table
             Hashtable studentsTable = new Hashtable();
 
+           
             // New instances of class Student
             Student stud1 = new Student(1, "Maria", 67);
             Student stud2 = new Student(2, "James", 77);
