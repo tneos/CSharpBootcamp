@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizProject", "QuizProject\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListApp", "ListApp\ListApp.csproj", "{734A7F57-EEAC-4423-9253-4BBE364EED08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTables", "HashTables\HashTables.csproj", "{19B1E644-6DC8-49B2-9C1F-A774CA5DD6BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -265,6 +267,18 @@ Global
 		{734A7F57-EEAC-4423-9253-4BBE364EED08}.Release|x64.Build.0 = Release|Any CPU
 		{734A7F57-EEAC-4423-9253-4BBE364EED08}.Release|x86.ActiveCfg = Release|Any CPU
 		{734A7F57-EEAC-4423-9253-4BBE364EED08}.Release|x86.Build.0 = Release|Any CPU
+		{19B1E644-6DC8-49B2-9C1F-A774CA5DD6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B1E644-6DC8-49B2-9C1F-A774CA5DD6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B1E644-6DC8-49B2-9C1F-A774CA5DD6BF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{19B1E644-6DC8-49B2-9C1F-A774CA5DD6BF}.Debug|x64.Build.0 = Debug|Any CPU
+		{19B1E644-6DC8-49B2-9C1F-A774CA5DD6BF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{19B1E644-6DC8-49B2-9C1F-A774CA5DD6BF}.Debug|x86.Build.0 = Debug|Any CPU
+		{19B1E644-6DC8-49B2-9C1F-A774CA5DD6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B1E644-6DC8-49B2-9C1F-A774CA5DD6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B1E644-6DC8-49B2-9C1F-A774CA5DD6BF}.Release|x64.ActiveCfg = Release|Any CPU
+		{19B1E644-6DC8-49B2-9C1F-A774CA5DD6BF}.Release|x64.Build.0 = Release|Any CPU
+		{19B1E644-6DC8-49B2-9C1F-A774CA5DD6BF}.Release|x86.ActiveCfg = Release|Any CPU
+		{19B1E644-6DC8-49B2-9C1F-A774CA5DD6BF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

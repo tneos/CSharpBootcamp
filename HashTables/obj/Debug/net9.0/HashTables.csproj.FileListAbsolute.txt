@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/bin/Debug/net9.0/HashTables
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/bin/Debug/net9.0/HashTables.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/bin/Debug/net9.0/HashTables.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/bin/Debug/net9.0/HashTables.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/bin/Debug/net9.0/HashTables.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/obj/Debug/net9.0/HashTables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/obj/Debug/net9.0/HashTables.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/obj/Debug/net9.0/HashTables.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/obj/Debug/net9.0/HashTables.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/obj/Debug/net9.0/HashTables.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/obj/Debug/net9.0/HashTables.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/obj/Debug/net9.0/refint/HashTables.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/obj/Debug/net9.0/HashTables.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/obj/Debug/net9.0/HashTables.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/HashTables/obj/Debug/net9.0/ref/HashTables.dll
