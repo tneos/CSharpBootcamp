@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/bin/Debug/net9.0/ErrorHandling
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/bin/Debug/net9.0/ErrorHandling.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/bin/Debug/net9.0/ErrorHandling.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/bin/Debug/net9.0/ErrorHandling.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/bin/Debug/net9.0/ErrorHandling.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/obj/Debug/net9.0/ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/obj/Debug/net9.0/ErrorHandling.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/obj/Debug/net9.0/ErrorHandling.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/obj/Debug/net9.0/ErrorHandling.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/obj/Debug/net9.0/ErrorHandling.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/obj/Debug/net9.0/ErrorHandling.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/obj/Debug/net9.0/refint/ErrorHandling.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/obj/Debug/net9.0/ErrorHandling.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/obj/Debug/net9.0/ErrorHandling.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/ErrorHandling/obj/Debug/net9.0/ref/ErrorHandling.dll

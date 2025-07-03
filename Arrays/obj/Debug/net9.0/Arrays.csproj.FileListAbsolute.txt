@@ -12,3 +12,4 @@
 /Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/obj/Debug/net9.0/Arrays.pdb
 /Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
 /Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/obj/Debug/net9.0/ref/Arrays.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/Arrays/obj/Debug/net9.0/Arrays.sourcelink.json

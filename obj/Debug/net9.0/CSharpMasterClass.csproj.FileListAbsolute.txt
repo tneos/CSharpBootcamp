@@ -2,3 +2,4 @@
 /Users/isla/Documents/Web Development/CSharpMasterClass/obj/Debug/net9.0/CSharpMasterClass.AssemblyInfoInputs.cache
 /Users/isla/Documents/Web Development/CSharpMasterClass/obj/Debug/net9.0/CSharpMasterClass.AssemblyInfo.cs
 /Users/isla/Documents/Web Development/CSharpMasterClass/obj/Debug/net9.0/CSharpMasterClass.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/obj/Debug/net9.0/CSharpMasterClass.sourcelink.json

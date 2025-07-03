@@ -12,16 +12,16 @@
             };
 
             // Declare a list and initialize
-            List<string> colors =
-            [
+            List<string> colors = new List<string>
+            {
                 // Add items
                 "red",
                 "blue",
                 "yellow",
                 "red",
                 "red",
-                "red",
-            ];
+                "red"
+            };
 
             // List of numbers
             List<int> numbers = new List<int> { 1, 3, 6, 23, 8, 5, 12 };
@@ -66,6 +66,7 @@
 
             // Filter list with where(), create new list
             List<Product> cheapProducts = products.Where(p => p.Price < 20).ToList();
+           
 
             // Display products based on Product class
             Console.WriteLine("Available cheap products:");

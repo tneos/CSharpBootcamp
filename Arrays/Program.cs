@@ -4,10 +4,10 @@
 
 // Declare an array (predefined length and data type)
 // Add values into every index
-int[] myIntArray = [5, 14, 22, 8, 31];
+int[] myIntArray = {5, 14, 22, 8, 31};
 
 // Week days strings array
-string[] weekDays = ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"];
+string[] weekDays = {"MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"};
 Console.WriteLine(weekDays.Length);
 
 // for (int i = 0; i < weekDays.Length; i++)
