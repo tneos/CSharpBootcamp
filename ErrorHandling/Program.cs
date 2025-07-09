@@ -8,6 +8,7 @@ try
     int num1 = 0;
     int num2 = 2;
     result = num2 / num1;
+
 }
 catch (Exception ex)
 {
