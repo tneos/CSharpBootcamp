@@ -2,7 +2,7 @@
 
 int result = 0;
 
-// Handle mulitple exceptions
+// Handle multiple exceptions(Inherit from Exception class)
 try
 {
     Console.WriteLine("Please enter a number");
