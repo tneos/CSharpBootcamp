@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/bin/Debug/net9.0/InheritenceApp
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/bin/Debug/net9.0/InheritenceApp.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/bin/Debug/net9.0/InheritenceApp.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/bin/Debug/net9.0/InheritenceApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/bin/Debug/net9.0/InheritenceApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/obj/Debug/net9.0/InheritenceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/obj/Debug/net9.0/InheritenceApp.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/obj/Debug/net9.0/InheritenceApp.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/obj/Debug/net9.0/InheritenceApp.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/obj/Debug/net9.0/InheritenceApp.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/obj/Debug/net9.0/InheritenceApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/obj/Debug/net9.0/refint/InheritenceApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/obj/Debug/net9.0/InheritenceApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/obj/Debug/net9.0/InheritenceApp.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/InheritenceApp/obj/Debug/net9.0/ref/InheritenceApp.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogicApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5620b4d91eb0e5c7a26a5e2d3843e896167b307a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d97f39c6f036cbf758d128577034d19ce8ea260")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogicApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogicApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
