@@ -1,15 +1,22 @@
-﻿namespace InheritenceApp
+﻿
+
+namespace InheritenceApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+        //     Employee joe = new Employee("Joe Smith", 34, "admin", 32);
+        //    joe.DisplayEmployeeInfo();
+
+            Manager manager1 = new Manager("Carl Davies", 34, "admin", 32, 12);
+            manager1.DisplayManagerInfo();
             BaseClass baseClass = new BaseClass();
-            baseClass.ShowFields();
+            //baseClass.ShowFields();
 
             DerivedClass derivedClass = new DerivedClass();
-            derivedClass.AccessFields();
-            derivedClass.ShowFields();
+            //derivedClass.AccessFields();
+            //derivedClass.ShowFields();
         }
     }
 }
