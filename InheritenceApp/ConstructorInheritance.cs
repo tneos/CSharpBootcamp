@@ -1,6 +1,7 @@
 using System.Security.Cryptography.X509Certificates;
 
 namespace InheritenceApp;
+
 public class Person
 {
     public string Name { get; private set; }
@@ -17,6 +18,15 @@ public class Person
     public void DisplayPersonInfo()
     {
         Console.WriteLine($"Name: {Name}, Age: {Age}");
+    }
+
+   /// <summary>Icrease age property by a set number of years</summary>
+        /// <param name="years">The parameter that indicates the amount of years to add to property.</param>
+        /// <returns>Returns the new age.</returns>
+    public int IncrementAge(int years)
+    {
+        Age = Age + years;
+        return Age;
     }
 }
 

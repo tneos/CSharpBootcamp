@@ -11,6 +11,7 @@ namespace InheritenceApp
 
             Manager manager1 = new Manager("Carl Davies", 34, "admin", 32, 12);
             manager1.DisplayManagerInfo();
+            manager1.IncrementAge(7);
             BaseClass baseClass = new BaseClass();
             //baseClass.ShowFields();
 
