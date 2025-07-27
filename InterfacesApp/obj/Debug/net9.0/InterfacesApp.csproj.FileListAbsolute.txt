@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/bin/Debug/net9.0/InterfacesApp
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/bin/Debug/net9.0/InterfacesApp.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/bin/Debug/net9.0/InterfacesApp.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/bin/Debug/net9.0/InterfacesApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/bin/Debug/net9.0/InterfacesApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/obj/Debug/net9.0/InterfacesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/obj/Debug/net9.0/InterfacesApp.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/obj/Debug/net9.0/InterfacesApp.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/obj/Debug/net9.0/InterfacesApp.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/obj/Debug/net9.0/InterfacesApp.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/obj/Debug/net9.0/InterfacesApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/obj/Debug/net9.0/refint/InterfacesApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/obj/Debug/net9.0/InterfacesApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/obj/Debug/net9.0/InterfacesApp.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/InterfacesApp/obj/Debug/net9.0/ref/InterfacesApp.dll
