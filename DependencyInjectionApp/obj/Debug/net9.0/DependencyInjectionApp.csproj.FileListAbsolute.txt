@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/bin/Debug/net9.0/DependencyInjectionApp
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/bin/Debug/net9.0/DependencyInjectionApp.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/bin/Debug/net9.0/DependencyInjectionApp.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/bin/Debug/net9.0/DependencyInjectionApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/bin/Debug/net9.0/DependencyInjectionApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/obj/Debug/net9.0/DependencyInjectionApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/obj/Debug/net9.0/DependencyInjectionApp.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/obj/Debug/net9.0/DependencyInjectionApp.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/obj/Debug/net9.0/DependencyInjectionApp.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/obj/Debug/net9.0/DependencyInjectionApp.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/obj/Debug/net9.0/DependencyInjectionApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/obj/Debug/net9.0/refint/DependencyInjectionApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/obj/Debug/net9.0/DependencyInjectionApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/obj/Debug/net9.0/DependencyInjectionApp.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/DependencyInjectionApp/obj/Debug/net9.0/ref/DependencyInjectionApp.dll
