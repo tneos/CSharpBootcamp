@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/bin/Debug/net9.0/StructsApp
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/bin/Debug/net9.0/StructsApp.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/bin/Debug/net9.0/StructsApp.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/bin/Debug/net9.0/StructsApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/bin/Debug/net9.0/StructsApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/obj/Debug/net9.0/StructsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/obj/Debug/net9.0/StructsApp.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/obj/Debug/net9.0/StructsApp.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/obj/Debug/net9.0/StructsApp.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/obj/Debug/net9.0/StructsApp.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/obj/Debug/net9.0/StructsApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/obj/Debug/net9.0/refint/StructsApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/obj/Debug/net9.0/StructsApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/obj/Debug/net9.0/StructsApp.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/StructsApp/obj/Debug/net9.0/ref/StructsApp.dll
