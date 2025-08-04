@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/bin/Debug/net9.0/DateTime
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/bin/Debug/net9.0/DateTime.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/bin/Debug/net9.0/DateTime.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/bin/Debug/net9.0/DateTime.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/bin/Debug/net9.0/DateTime.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/obj/Debug/net9.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/obj/Debug/net9.0/DateTime.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/obj/Debug/net9.0/DateTime.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/obj/Debug/net9.0/DateTime.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/obj/Debug/net9.0/DateTime.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/obj/Debug/net9.0/DateTime.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/obj/Debug/net9.0/refint/DateTime.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/obj/Debug/net9.0/DateTime.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/obj/Debug/net9.0/DateTime.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/DateTime/obj/Debug/net9.0/ref/DateTime.dll
