@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StructsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6549a415afe4e792ca5d41a723512e8872954241")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeb199250cdef84e0139209ea322f98f8c546c5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("StructsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StructsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
