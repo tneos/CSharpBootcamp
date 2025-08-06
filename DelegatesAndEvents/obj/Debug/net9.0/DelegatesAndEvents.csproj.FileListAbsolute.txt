@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/bin/Debug/net9.0/DelegatesAndEvents
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/bin/Debug/net9.0/DelegatesAndEvents.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/bin/Debug/net9.0/DelegatesAndEvents.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/bin/Debug/net9.0/DelegatesAndEvents.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/bin/Debug/net9.0/DelegatesAndEvents.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/obj/Debug/net9.0/DelegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/obj/Debug/net9.0/DelegatesAndEvents.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/obj/Debug/net9.0/DelegatesAndEvents.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/obj/Debug/net9.0/DelegatesAndEvents.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/obj/Debug/net9.0/DelegatesAndEvents.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/obj/Debug/net9.0/DelegatesAndEvents.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/obj/Debug/net9.0/refint/DelegatesAndEvents.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/obj/Debug/net9.0/DelegatesAndEvents.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/obj/Debug/net9.0/DelegatesAndEvents.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/DelegatesAndEvents/obj/Debug/net9.0/ref/DelegatesAndEvents.dll
