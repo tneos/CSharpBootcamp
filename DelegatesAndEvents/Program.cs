@@ -1,50 +1,71 @@
 ﻿namespace DelegatesAndEvents
 {
-    public delegate void LogHandler(string message);
 
-    public class Logger
-    {
-        public void LogToConsole(string message)
-        {
-            Console.WriteLine("Console Log: " + message);
-        }
-
-        public void LogTofile(string message)
-        {
-            Console.WriteLine("File log: " + message);
-        }
-    }
     internal class Program
     {
-        // 1. Declaration
-        public delegate void Notify(string message);
+        // Delegate declaration
+        public delegate int Comparison<T>(T x, T y);
+
+        public class Person
+        {
+            public int Age { get; set; }
+            public string Name { get; set; }
+        }
+
+        public class PersonSorter
+        {
+            public void Sort(Person[] people, Comparison<Person> comparison)
+            {
+                for (int i = 0; i < people.Length; i++)
+                {
+                    for (int j = i + 1; j < people.Length; j++)
+                    {
+                        // Compare people[i] and people[j] using the provided comparison delegate
+                        if (comparison(people[i], people[j]) > 0)
+                        {
+                            // Swap places
+                            Person temp = people[i];
+                            people[i] = people[j];
+                            people[j] = temp;
+                        }
+                    }
+                }
+            }
+        }
+
         static void Main(string[] args)
         {
-            // Delegates define a method signature
-            // Any method assigned to delegate must match this signature
+            Person[] people = {
+            new Person{Name = "Alice", Age = 32},
+            new Person{Name = "Peter", Age = 52},
+            new Person{Name = "Sam", Age = 29},
+            new Person{Name = "Susan", Age = 39},
+          };
 
-            // 2. Instantiation
-            Notify notifyDelegate = ShowMessage;
-            // Older C# versions
-            // Notify notifyDelegate = new Notify(notifyDelegate);
+            PersonSorter sorter = new PersonSorter();
+            //sorter.Sort(people, CompareByAge);
+            sorter.Sort(people, CompareByName);
 
-            // 3. Invocation
-            notifyDelegate("Delegate message");
+            // Display people
+            foreach (Person person in people)
+            {
+                Console.WriteLine($"{person.Name} {person.Age}");
+            }
 
-            // Instance of Logger class
-            Logger logger = new Logger();
-            LogHandler logHandler = logger.LogToConsole;
-            logHandler("Logging to console. Testing mode..");
-            // Overwrite variable
-            logHandler = logger.LogTofile;
-            logHandler("Running second method");
+            Console.ReadKey();
         }
 
-        static void ShowMessage(string message)
+        static int CompareByAge(Person x, Person y)
         {
-            Console.WriteLine(message);
+            return x.Age.CompareTo(y.Age);
+        }
+
+        static int CompareByName(Person x, Person y)
+        {
+            return x.Name.CompareTo(y.Name);
         }
     }
+      
 
 }
 
