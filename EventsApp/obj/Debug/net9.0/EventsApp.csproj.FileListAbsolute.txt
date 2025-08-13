@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/bin/Debug/net9.0/EventsApp
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/bin/Debug/net9.0/EventsApp.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/bin/Debug/net9.0/EventsApp.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/bin/Debug/net9.0/EventsApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/bin/Debug/net9.0/EventsApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/obj/Debug/net9.0/EventsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/obj/Debug/net9.0/EventsApp.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/obj/Debug/net9.0/EventsApp.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/obj/Debug/net9.0/EventsApp.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/obj/Debug/net9.0/EventsApp.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/obj/Debug/net9.0/EventsApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/obj/Debug/net9.0/refint/EventsApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/obj/Debug/net9.0/EventsApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/obj/Debug/net9.0/EventsApp.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/EventsApp/obj/Debug/net9.0/ref/EventsApp.dll
