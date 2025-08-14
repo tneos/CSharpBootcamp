@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesAndEvents", "Deleg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsApp", "EventsApp\EventsApp.csproj", "{F4AFFF5A-0A95-4CB3-A668-0E1991E11773}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegEx", "RegEx\RegEx.csproj", "{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -419,6 +421,18 @@ Global
 		{F4AFFF5A-0A95-4CB3-A668-0E1991E11773}.Release|x64.Build.0 = Release|Any CPU
 		{F4AFFF5A-0A95-4CB3-A668-0E1991E11773}.Release|x86.ActiveCfg = Release|Any CPU
 		{F4AFFF5A-0A95-4CB3-A668-0E1991E11773}.Release|x86.Build.0 = Release|Any CPU
+		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Debug|x64.Build.0 = Debug|Any CPU
+		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Debug|x86.Build.0 = Debug|Any CPU
+		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Release|x64.ActiveCfg = Release|Any CPU
+		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Release|x64.Build.0 = Release|Any CPU
+		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Release|x86.ActiveCfg = Release|Any CPU
+		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
