@@ -31,7 +31,7 @@ GROUPING CONSTRUCT
 Quantifiers:
 *       - Matches the previous element zero or more times.
 +       - Matches the previous element one or more times.
-?       - Matches the previous element zero or one time.
+?       - Matches the previous element zero or one time.(preceding character is optional)
 {n}     - Matches the previous element exactly n times.
 {n,m}   - Matches the previous element at least n times, but no more than m times.
 

@@ -7,6 +7,8 @@
 0175/12345678
 +49165/12312347
 0049165/12312347
+Pattern for numbers above
+\+|(\d{7}|\d{5}|\d{4})/\d{8}
 
 abcdefghijklmnopqurtuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
@@ -21,6 +23,8 @@ Ms Smith
 Ms Jackson
 
 // Challenge - find website links
+https?://(www.)?(\w+)(\.\w+)
+
 https://www.tutorials.eu
 https://tutorials.eu
 http://www.tutorials.eu

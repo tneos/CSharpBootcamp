@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/bin/Debug/net9.0/RegEx
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/bin/Debug/net9.0/RegEx.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/bin/Debug/net9.0/RegEx.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/bin/Debug/net9.0/RegEx.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/bin/Debug/net9.0/RegEx.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/obj/Debug/net9.0/RegEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/obj/Debug/net9.0/RegEx.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/obj/Debug/net9.0/RegEx.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/obj/Debug/net9.0/RegEx.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/obj/Debug/net9.0/RegEx.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/obj/Debug/net9.0/RegEx.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/obj/Debug/net9.0/refint/RegEx.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/obj/Debug/net9.0/RegEx.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/obj/Debug/net9.0/RegEx.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/RegEx/obj/Debug/net9.0/ref/RegEx.dll
