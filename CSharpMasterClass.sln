@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsApp", "EventsApp\Even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegEx", "RegEx\RegEx.csproj", "{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqApp", "LinqApp\LinqApp.csproj", "{46657438-0444-45D1-807E-5B5D5A88F917}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -433,6 +435,18 @@ Global
 		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Release|x64.Build.0 = Release|Any CPU
 		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Release|x86.ActiveCfg = Release|Any CPU
 		{E327B3EC-7645-4093-B9D7-E0E31ABFCD1A}.Release|x86.Build.0 = Release|Any CPU
+		{46657438-0444-45D1-807E-5B5D5A88F917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46657438-0444-45D1-807E-5B5D5A88F917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46657438-0444-45D1-807E-5B5D5A88F917}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{46657438-0444-45D1-807E-5B5D5A88F917}.Debug|x64.Build.0 = Debug|Any CPU
+		{46657438-0444-45D1-807E-5B5D5A88F917}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{46657438-0444-45D1-807E-5B5D5A88F917}.Debug|x86.Build.0 = Debug|Any CPU
+		{46657438-0444-45D1-807E-5B5D5A88F917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46657438-0444-45D1-807E-5B5D5A88F917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46657438-0444-45D1-807E-5B5D5A88F917}.Release|x64.ActiveCfg = Release|Any CPU
+		{46657438-0444-45D1-807E-5B5D5A88F917}.Release|x64.Build.0 = Release|Any CPU
+		{46657438-0444-45D1-807E-5B5D5A88F917}.Release|x86.ActiveCfg = Release|Any CPU
+		{46657438-0444-45D1-807E-5B5D5A88F917}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/bin/Debug/net9.0/LinqApp
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/bin/Debug/net9.0/LinqApp.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/bin/Debug/net9.0/LinqApp.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/bin/Debug/net9.0/LinqApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/bin/Debug/net9.0/LinqApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/obj/Debug/net9.0/LinqApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/obj/Debug/net9.0/LinqApp.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/obj/Debug/net9.0/LinqApp.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/obj/Debug/net9.0/LinqApp.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/obj/Debug/net9.0/LinqApp.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/obj/Debug/net9.0/LinqApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/obj/Debug/net9.0/refint/LinqApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/obj/Debug/net9.0/LinqApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/obj/Debug/net9.0/LinqApp.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/LinqApp/obj/Debug/net9.0/ref/LinqApp.dll
