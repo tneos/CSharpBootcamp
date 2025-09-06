@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using LinqApp;
 
 namespace Linq
 {
@@ -11,6 +12,10 @@ namespace Linq
         static void Main(string[] args)
         {
             int[] numbers = new int[] { 1, 3, 6, 23, 24, 42 };
+            // New instance of University Manager object
+            UniversityManager um = new UniversityManager();
+            um.MaleStudents();
+            um.FemaleStudents();
 
             OddNumbers(numbers);
             Console.ReadKey();
