@@ -1,5 +1,7 @@
 using System;
 using System.Collections.Generic;
+using System.Data.Common;
+using System.Globalization;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -45,7 +47,59 @@ namespace LinqApp
 
             foreach (Student student in femaleStudents)
             {
-                student.Print();           }
+                student.Print();
+            }
+        }
+
+        // Sorting method
+        public void SortStudentsByAge()
+        {
+            var sortedStudents = from student in students orderby student.Age select student;
+
+            Console.WriteLine("Students sorted by Age:");
+
+            foreach (Student student in sortedStudents)
+            {
+                student.Print();
+            }
+        }
+
+        // Filter students based on university
+        public void YaleStudents()
+        {
+            IEnumerable<Student> yaleStudents = from student in students
+                                                join university in universities on student.UniversityId equals university.Id
+                                                where university.Name == "Yale"
+                                                select student;
+
+            Console.WriteLine("Students from Yale University: ");
+            foreach (Student student in yaleStudents)
+            {
+                student.Print();
+            }
+        }
+
+        // Filter students based on university id input by the user
+        public int pickedUniStudents(int id)
+        {
+            IEnumerable<Student> pickedUniStudents = from student in students
+                                                     join university in universities on student.UniversityId equals university.Id
+                                                     where university.Id == id
+                                                     select student;
+
+            Console.WriteLine("Students from selected University: ");
+
+            //Console.WriteLine(pickedUniStudents.Count());
+            foreach (Student student in pickedUniStudents)
+            {
+                student.Print();
+            }
+
+            return pickedUniStudents.Count();
+            
+           
+            
+            
         }
     }
 }

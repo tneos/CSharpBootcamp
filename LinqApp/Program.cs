@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using LinqApp;
+using Microsoft.VisualBasic;
 
 namespace Linq
 {
@@ -16,6 +17,23 @@ namespace Linq
             UniversityManager um = new UniversityManager();
             um.MaleStudents();
             um.FemaleStudents();
+            um.SortStudentsByAge();
+            um.YaleStudents();
+            Console.WriteLine("Please enter University id: 1: Yale, 2: Cambridge");
+            string input = Console.ReadLine() ?? "";
+            int inputAsInt = Convert.ToInt32(input);
+
+
+
+            while (um.pickedUniStudents(inputAsInt) == 0)
+            {
+                Console.WriteLine("Enter valid value");
+                input = Console.ReadLine() ?? "";
+                inputAsInt = Convert.ToInt32(input);
+            }
+            
+                um.pickedUniStudents(inputAsInt);
+            
 
             OddNumbers(numbers);
             Console.ReadKey();
