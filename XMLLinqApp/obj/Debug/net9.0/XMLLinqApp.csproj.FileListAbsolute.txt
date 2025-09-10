@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/bin/Debug/net9.0/XMLLinqApp
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/bin/Debug/net9.0/XMLLinqApp.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/bin/Debug/net9.0/XMLLinqApp.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/bin/Debug/net9.0/XMLLinqApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/bin/Debug/net9.0/XMLLinqApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/obj/Debug/net9.0/XMLLinqApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/obj/Debug/net9.0/XMLLinqApp.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/obj/Debug/net9.0/XMLLinqApp.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/obj/Debug/net9.0/XMLLinqApp.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/obj/Debug/net9.0/XMLLinqApp.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/obj/Debug/net9.0/XMLLinqApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/obj/Debug/net9.0/refint/XMLLinqApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/obj/Debug/net9.0/XMLLinqApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/obj/Debug/net9.0/XMLLinqApp.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/XMLLinqApp/obj/Debug/net9.0/ref/XMLLinqApp.dll
