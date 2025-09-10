@@ -33,6 +33,7 @@ namespace Linq
             }
             
                 um.pickedUniStudents(inputAsInt);
+            um.StudentAndUniversityNameCollection();
             
 
             OddNumbers(numbers);

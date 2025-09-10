@@ -96,10 +96,23 @@ namespace LinqApp
             }
 
             return pickedUniStudents.Count();
-            
-           
-            
-            
+
+        }
+
+        // Method that creates a new list out of students and universities ones
+        public void StudentAndUniversityNameCollection()
+        {
+            var newCollection = from student in students
+                                join university in universities on student.UniversityId equals university.Id
+                                orderby student.Name
+                                select new { StudentName = student.Name, UniversityName = university.Name };
+
+            Console.WriteLine("New Collection: ");
+
+            foreach (var col in newCollection)
+            {
+                Console.WriteLine("Student {0} from {1} University", col.StudentName, col.UniversityName);
+            }
         }
     }
 }
