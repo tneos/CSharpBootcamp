@@ -17,14 +17,29 @@ namespace MyApplication
             logger.Log("Logger new message");
             logger.Log(12);
 
-            
+
             Box<Book> bookBox = new Box<Book>();
+
+            Repository<Product> repository = new Repository<Product>();
+            var product = new Product();
+            repository.Add(product);
+            var book1 = new Book();
+            var book2 = new Book();
+            // Call static method of Comparer
+            Comparer.AreEqual(book1, book2);
+
+
         }
 
     }
-    
+
     class Book
     {
-        
+
+    }
+    
+    class Product: IEntity
+    {
+        public int Id { get; set; }
     }
 }
