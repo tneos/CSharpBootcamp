@@ -12,3 +12,4 @@
 /Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/obj/Debug/net9.0/TextAdventureGame.pdb
 /Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/obj/Debug/net9.0/TextAdventureGame.genruntimeconfig.cache
 /Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/obj/Debug/net9.0/ref/TextAdventureGame.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/TextAdventureGame/obj/Debug/net9.0/TextAdventureGame.sourcelink.json

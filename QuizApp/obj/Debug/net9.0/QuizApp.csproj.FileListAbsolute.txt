@@ -12,3 +12,4 @@
 /Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/obj/Debug/net9.0/QuizApp.pdb
 /Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/obj/Debug/net9.0/QuizApp.genruntimeconfig.cache
 /Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/obj/Debug/net9.0/ref/QuizApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/QuizApp/obj/Debug/net9.0/QuizApp.sourcelink.json

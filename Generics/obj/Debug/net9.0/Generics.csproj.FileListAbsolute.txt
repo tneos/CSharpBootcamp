@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/bin/Debug/net9.0/Generics
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/bin/Debug/net9.0/Generics.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/bin/Debug/net9.0/Generics.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/bin/Debug/net9.0/Generics.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/bin/Debug/net9.0/Generics.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/obj/Debug/net9.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/obj/Debug/net9.0/Generics.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/obj/Debug/net9.0/Generics.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/obj/Debug/net9.0/Generics.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/obj/Debug/net9.0/Generics.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/obj/Debug/net9.0/Generics.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/obj/Debug/net9.0/refint/Generics.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/obj/Debug/net9.0/Generics.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/obj/Debug/net9.0/Generics.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/Generics/obj/Debug/net9.0/ref/Generics.dll

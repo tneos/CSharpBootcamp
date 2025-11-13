@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/bin/Debug/net9.0/MethodsApp
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/bin/Debug/net9.0/MethodsApp.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/bin/Debug/net9.0/MethodsApp.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/bin/Debug/net9.0/MethodsApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/bin/Debug/net9.0/MethodsApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/obj/Debug/net9.0/MethodsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/obj/Debug/net9.0/MethodsApp.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/obj/Debug/net9.0/MethodsApp.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/obj/Debug/net9.0/MethodsApp.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/obj/Debug/net9.0/MethodsApp.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/obj/Debug/net9.0/MethodsApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/obj/Debug/net9.0/refint/MethodsApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/obj/Debug/net9.0/MethodsApp.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/obj/Debug/net9.0/MethodsApp.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/MethodsApp/obj/Debug/net9.0/ref/MethodsApp.dll

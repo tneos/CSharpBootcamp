@@ -12,3 +12,4 @@
 /Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/obj/Debug/net9.0/LogicApp.pdb
 /Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/obj/Debug/net9.0/LogicApp.genruntimeconfig.cache
 /Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/obj/Debug/net9.0/ref/LogicApp.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/LogicApp/obj/Debug/net9.0/LogicApp.sourcelink.json

@@ -12,3 +12,4 @@
 /Users/isla/Documents/Web Development/CSharpMasterClass/calculator/obj/Debug/net9.0/calculator.pdb
 /Users/isla/Documents/Web Development/CSharpMasterClass/calculator/obj/Debug/net9.0/calculator.genruntimeconfig.cache
 /Users/isla/Documents/Web Development/CSharpMasterClass/calculator/obj/Debug/net9.0/ref/calculator.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/calculator/obj/Debug/net9.0/calculator.sourcelink.json

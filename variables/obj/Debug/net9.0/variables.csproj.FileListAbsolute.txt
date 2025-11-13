@@ -12,3 +12,4 @@
 /Users/isla/Documents/Web Development/CSharpMasterClass/variables/obj/Debug/net9.0/variables.pdb
 /Users/isla/Documents/Web Development/CSharpMasterClass/variables/obj/Debug/net9.0/variables.genruntimeconfig.cache
 /Users/isla/Documents/Web Development/CSharpMasterClass/variables/obj/Debug/net9.0/ref/variables.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/variables/obj/Debug/net9.0/variables.sourcelink.json

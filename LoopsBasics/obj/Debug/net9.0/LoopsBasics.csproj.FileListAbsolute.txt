@@ -12,3 +12,4 @@
 /Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/obj/Debug/net9.0/LoopsBasics.pdb
 /Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/obj/Debug/net9.0/LoopsBasics.genruntimeconfig.cache
 /Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/obj/Debug/net9.0/ref/LoopsBasics.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/LoopsBasics/obj/Debug/net9.0/LoopsBasics.sourcelink.json

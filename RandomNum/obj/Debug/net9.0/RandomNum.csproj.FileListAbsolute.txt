@@ -1,0 +1,15 @@
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/bin/Debug/net9.0/RandomNum
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/bin/Debug/net9.0/RandomNum.deps.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/bin/Debug/net9.0/RandomNum.runtimeconfig.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/bin/Debug/net9.0/RandomNum.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/bin/Debug/net9.0/RandomNum.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/obj/Debug/net9.0/RandomNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/obj/Debug/net9.0/RandomNum.AssemblyInfoInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/obj/Debug/net9.0/RandomNum.AssemblyInfo.cs
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/obj/Debug/net9.0/RandomNum.csproj.CoreCompileInputs.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/obj/Debug/net9.0/RandomNum.sourcelink.json
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/obj/Debug/net9.0/RandomNum.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/obj/Debug/net9.0/refint/RandomNum.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/obj/Debug/net9.0/RandomNum.pdb
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/obj/Debug/net9.0/RandomNum.genruntimeconfig.cache
+/Users/isla/Documents/Web Development/CSharpMasterClass/RandomNum/obj/Debug/net9.0/ref/RandomNum.dll

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="LinqToSQL/App.axaml" value="LinqToSQL/LinqToSQL.csproj" />
+        <entry key="LinqToSQL/MainWindow.axaml" value="LinqToSQL/LinqToSQL.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

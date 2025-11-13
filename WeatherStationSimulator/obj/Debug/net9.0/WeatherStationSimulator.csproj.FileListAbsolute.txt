@@ -12,3 +12,4 @@
 /Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.pdb
 /Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.genruntimeconfig.cache
 /Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/obj/Debug/net9.0/ref/WeatherStationSimulator.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.sourcelink.json

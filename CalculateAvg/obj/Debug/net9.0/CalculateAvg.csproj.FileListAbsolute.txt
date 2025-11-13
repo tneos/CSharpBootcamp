@@ -12,3 +12,4 @@
 /Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/obj/Debug/net9.0/CalculateAvg.pdb
 /Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/obj/Debug/net9.0/CalculateAvg.genruntimeconfig.cache
 /Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/obj/Debug/net9.0/ref/CalculateAvg.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/CalculateAvg/obj/Debug/net9.0/CalculateAvg.sourcelink.json

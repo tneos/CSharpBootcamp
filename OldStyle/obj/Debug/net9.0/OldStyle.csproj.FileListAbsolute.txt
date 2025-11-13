@@ -12,3 +12,4 @@
 /Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/obj/Debug/net9.0/OldStyle.pdb
 /Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/obj/Debug/net9.0/OldStyle.genruntimeconfig.cache
 /Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/obj/Debug/net9.0/ref/OldStyle.dll
+/Users/isla/Documents/Web Development/CSharpMasterClass/OldStyle/obj/Debug/net9.0/OldStyle.sourcelink.json
