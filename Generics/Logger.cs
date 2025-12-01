@@ -7,7 +7,7 @@ namespace Generics
 {
     public class Logger
     {
-        // Generic type method
+        // Generic type method inside a default class
         public void Log<T>(T message)
         {
             Console.WriteLine(message?.ToString());

@@ -2,6 +2,7 @@ using System;
 
 namespace Generics;
 
+// Type T, not related to a specific type (generic functionality across multiple classes)
 // public class Box<T>
 // {
 //     private T content;
@@ -31,6 +32,7 @@ namespace Generics;
 //     public TFirst First { get; set; }
 //     public TSecond Second { get; set; }
 
+      // Constructor initializes generic properties
 //     public Box(TFirst first, TSecond second)
 //     {
 //         First = first;
