@@ -1,4 +1,5 @@
 ﻿using Generics;
+using System.Reflection;
 
 namespace MyApplication
 {
@@ -28,6 +29,33 @@ namespace MyApplication
             var book2 = new Book();
             // Call static method of Comparer
             Comparer.AreEqual(book1, book2);
+            
+            // Get info about generic type 
+            Type type = typeof(Repository<>);
+
+            // Actions don't return values
+            Action action = () => {Console.WriteLine("Action applied");};
+            Action<float, float, float> sum = (x, y, z) =>
+            {
+                Console.WriteLine(x + y + z);
+            };
+            
+            action();
+            sum(1, 1, 4);
+
+            // Funcs return a value(returned type defined)
+            Func<string> getName = () =>
+            {
+                return "Thomas";
+            };
+            
+            // Parameters and returned type defined
+            Func<int, int, string> addition = (num1, num2) =>
+            {
+                return (num1 + num2).ToString();
+            };
+
+            Console.WriteLine(addition);
 
 
         }
@@ -45,7 +73,7 @@ namespace MyApplication
     }
 
     // Generic interface (flexible contract across multiple classes)
-    internal interface IRepository<T> where T: IEntity
+    internal interface IRepository<T> 
     {
         void Add(T entity);
         void Remove(T entity);
@@ -58,15 +86,16 @@ namespace MyApplication
         public required string Name { get; set; }
     }
 
-    internal class ProductRepository: IRepository<ProductsList>
+    // Generic class implements generic interface
+    internal class Repository<T>: IRepository<T>
     {
         
-        public void Add(ProductsList entity)
+        public void Add(T entity)
         {
             
         }
 
-        public void Remove(ProductsList entity)
+        public void Remove(T entity)
         {
             
         }
