@@ -57,6 +57,17 @@ namespace MyApplication
 
             Console.WriteLine(addition);
 
+            // Predicate returns a bool (condition checking)
+            Predicate<int> isEven = (x) =>
+            {
+                return x % 2 == 0;
+            };
+
+            List<int> intNumbersList = new List<int>(){1, 2, 5, 9, 12, 33, 45};
+            var evenInts = intNumbersList.FindAll(isEven);
+
+            Console.WriteLine(isEven(9));
+
 
         }
 
