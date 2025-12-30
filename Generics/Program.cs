@@ -68,6 +68,24 @@ namespace MyApplication
 
             Console.WriteLine(isEven(9));
 
+            // Implement interface ITask with string
+
+            // Create instances of EmailTask and ReportTask
+            var emailTask1 = new EmailTask();
+            emailTask1.Message = "First message delivered";
+            emailTask1.Recipient = "Thomas";
+            
+
+            var reportTask1 = new ReportTask();
+            reportTask1.ReportName = "Annual Report";
+            
+            // Create instances of processor
+            var emailProcessor = new TaskProcessor<EmailTask, string>(emailTask1);
+            var reportProcessor = new TaskProcessor<ReportTask, string>(reportTask1);
+            
+            Console.WriteLine(emailProcessor.Execute());
+            Console.WriteLine(reportProcessor.Execute());
+
 
         }
 
